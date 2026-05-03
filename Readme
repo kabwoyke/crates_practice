@@ -1,0 +1,11 @@
+### instructions
+- you need to have sdl2 and sdl2-image installed on your operating system
+
+### Linux instructions
+
+- using apt - sudo apt-get install libsdl2-dev libsdl2-image-dev
+- using Fedora - sudo dnf install SDL2_image-devel SDL2-devel
+- using Arch - sudo pacman -S sdl2 sdl2_image
+
+
+
